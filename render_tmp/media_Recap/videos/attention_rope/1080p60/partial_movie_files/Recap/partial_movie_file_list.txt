@@ -1,0 +1,9 @@
+# This file records the segment order used by Manim.
+file 'file:/workspaces/nodala-0.1/render_tmp/media_Recap/videos/attention_rope/1080p60/partial_movie_files/Recap/uncached_00000.mp4'
+file 'file:/workspaces/nodala-0.1/render_tmp/media_Recap/videos/attention_rope/1080p60/partial_movie_files/Recap/uncached_00001.mp4'
+file 'file:/workspaces/nodala-0.1/render_tmp/media_Recap/videos/attention_rope/1080p60/partial_movie_files/Recap/uncached_00002.mp4'
+file 'file:/workspaces/nodala-0.1/render_tmp/media_Recap/videos/attention_rope/1080p60/partial_movie_files/Recap/uncached_00003.mp4'
+file 'file:/workspaces/nodala-0.1/render_tmp/media_Recap/videos/attention_rope/1080p60/partial_movie_files/Recap/uncached_00004.mp4'
+file 'file:/workspaces/nodala-0.1/render_tmp/media_Recap/videos/attention_rope/1080p60/partial_movie_files/Recap/uncached_00005.mp4'
+file 'file:/workspaces/nodala-0.1/render_tmp/media_Recap/videos/attention_rope/1080p60/partial_movie_files/Recap/uncached_00006.mp4'
+file 'file:/workspaces/nodala-0.1/render_tmp/media_Recap/videos/attention_rope/1080p60/partial_movie_files/Recap/uncached_00007.mp4'

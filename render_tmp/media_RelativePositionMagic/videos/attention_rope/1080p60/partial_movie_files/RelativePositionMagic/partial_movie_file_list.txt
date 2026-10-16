@@ -1,0 +1,11 @@
+# This file records the segment order used by Manim.
+file 'file:/workspaces/nodala-0.1/render_tmp/media_RelativePositionMagic/videos/attention_rope/1080p60/partial_movie_files/RelativePositionMagic/uncached_00000.mp4'
+file 'file:/workspaces/nodala-0.1/render_tmp/media_RelativePositionMagic/videos/attention_rope/1080p60/partial_movie_files/RelativePositionMagic/uncached_00001.mp4'
+file 'file:/workspaces/nodala-0.1/render_tmp/media_RelativePositionMagic/videos/attention_rope/1080p60/partial_movie_files/RelativePositionMagic/uncached_00002.mp4'
+file 'file:/workspaces/nodala-0.1/render_tmp/media_RelativePositionMagic/videos/attention_rope/1080p60/partial_movie_files/RelativePositionMagic/uncached_00003.mp4'
+file 'file:/workspaces/nodala-0.1/render_tmp/media_RelativePositionMagic/videos/attention_rope/1080p60/partial_movie_files/RelativePositionMagic/uncached_00004.mp4'
+file 'file:/workspaces/nodala-0.1/render_tmp/media_RelativePositionMagic/videos/attention_rope/1080p60/partial_movie_files/RelativePositionMagic/uncached_00005.mp4'
+file 'file:/workspaces/nodala-0.1/render_tmp/media_RelativePositionMagic/videos/attention_rope/1080p60/partial_movie_files/RelativePositionMagic/uncached_00006.mp4'
+file 'file:/workspaces/nodala-0.1/render_tmp/media_RelativePositionMagic/videos/attention_rope/1080p60/partial_movie_files/RelativePositionMagic/uncached_00007.mp4'
+file 'file:/workspaces/nodala-0.1/render_tmp/media_RelativePositionMagic/videos/attention_rope/1080p60/partial_movie_files/RelativePositionMagic/uncached_00008.mp4'
+file 'file:/workspaces/nodala-0.1/render_tmp/media_RelativePositionMagic/videos/attention_rope/1080p60/partial_movie_files/RelativePositionMagic/uncached_00009.mp4'
