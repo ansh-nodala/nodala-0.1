@@ -1,0 +1,14 @@
+{
+  "path": "/workspaces/nodala-0.1/output/silent_math_lecture_01_ai_ml.mp4",
+  "duration_seconds": 1800.0,
+  "duration_ok": true,
+  "resolution": "3840x2160",
+  "resolution_ok": true,
+  "fps": 30.0,
+  "fps_ok": true,
+  "video_codec": "h264",
+  "codec_ok": true,
+  "has_audio_stream": false,
+  "no_audio_ok": true,
+  "all_checks_passed": true
+}
